@@ -12,7 +12,7 @@ Here are some username validation rules:
 """
 
 username = input("Validate your username: ")
-# len() is predefined function to measure length of the string!
+# len() is predefined function to check length of the string!
 if len(username) < 3:
     print("Minimum 3 characters are required for an username!")
 
