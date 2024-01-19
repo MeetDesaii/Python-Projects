@@ -11,5 +11,6 @@ def to_celsius(fahrenheit):
     return ((fahrenheit - 32) * 5) / 9
 
 
+# The range() function can take up to three parameters:  range(start, stop, step)
 for feh in range(0, 101, 10):
     print(f"Fahrenheit: {feh} | Celsius: {to_celsius(feh)}")
