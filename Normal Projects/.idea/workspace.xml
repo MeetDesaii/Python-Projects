@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9196aa-1cc1-4e1a-8a07-ce98231422ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SliceJoinStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquaredNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VowelsFromString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculatingGST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplaceDomain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReplaceEndingOnly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringPalindromeCheck.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TemperatureConverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/TemperatureConverter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     "Python.BMICalculator.executor": "Run",
     "Python.BandNameGenerator.executor": "Run",
     "Python.BasicCalculator.executor": "Run",
+    "Python.CalculatingGST.executor": "Run",
     "Python.CheckLeapYear.executor": "Run",
     "Python.CommonPredefinedFunctions.executor": "Run",
     "Python.ConvertSeconds.executor": "Run",
@@ -52,10 +53,13 @@
     "Python.InstanceOfClass.executor": "Run",
     "Python.LifeInWeeks.executor": "Run",
     "Python.OddEvenCheck.executor": "Run",
+    "Python.ReplaceDomain.executor": "Run",
+    "Python.ReplaceEndingOnly.executor": "Run",
     "Python.SliceJoinStrings (1).executor": "Run",
     "Python.SliceStrings.executor": "Run",
     "Python.SquaredNumbers.executor": "Run",
     "Python.StorageCalculation.executor": "Run",
+    "Python.StringPalindromeCheck.executor": "Run",
     "Python.SumOfString.executor": "Run",
     "Python.TargetSumWithTwoNumbers (1).executor": "Run",
     "Python.TargetWithTwoSum.executor": "Run",
@@ -71,7 +75,29 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.VowelsFromString">
+  <component name="RunManager" selected="Python.StringPalindromeCheck">
+    <configuration name="CalculatingGST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Beginning Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalculatingGST.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
@@ -94,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SliceJoinStrings (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplaceDomain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SliceJoinStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReplaceDomain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SliceJoinStrings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ReplaceEndingOnly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Programming\Data Science &amp; Python\Python-Projects\Normal Projects\SliceJoinStrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReplaceEndingOnly.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SquaredNumbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StringPalindromeCheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,29 +177,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SquaredNumbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TemperatureConverter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Beginning Projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TemperatureConverter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringPalindromeCheck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StringPalindromeCheck" />
+        <item itemvalue="Python.ReplaceEndingOnly" />
+        <item itemvalue="Python.CalculatingGST" />
+        <item itemvalue="Python.ReplaceDomain" />
         <item itemvalue="Python.VowelsFromString" />
-        <item itemvalue="Python.SliceJoinStrings (1)" />
-        <item itemvalue="Python.SliceJoinStrings" />
-        <item itemvalue="Python.SquaredNumbers" />
-        <item itemvalue="Python.TemperatureConverter" />
       </list>
     </recent_temporary>
   </component>
