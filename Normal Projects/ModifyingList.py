@@ -10,6 +10,12 @@ print(fruits)
 
 """
 Python tuples are a type of data structure that is very similar to lists. The main difference between the two is that tuples are immutable, meaning they cannot be changed once they are created. This makes them ideal for storing data that should not be modified, such as database records.
+
+# Convert a list to a tuple
+my_list = [1, 2, 3, 4]
+my_tuple = tuple(my_list)
+
+print(my_tuple)  # Outputs: (1, 2, 3, 4)
 """
 
 
