@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9196aa-1cc1-4e1a-8a07-ce98231422ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CalculatingGST.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceDomain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReplaceEndingOnly.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StringPalindromeCheck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AverageLengthInList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EnumerateFunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListComprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModifyingList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.0001_HelloWorld (1).executor": "Run",
+    "Python.AverageLengthInList.executor": "Run",
     "Python.BMICalculator.executor": "Run",
     "Python.BandNameGenerator.executor": "Run",
     "Python.BasicCalculator.executor": "Run",
@@ -47,11 +48,14 @@
     "Python.CheckLeapYear.executor": "Run",
     "Python.CommonPredefinedFunctions.executor": "Run",
     "Python.ConvertSeconds.executor": "Run",
+    "Python.EnumerateFunction.executor": "Run",
     "Python.HelloWorld (1).executor": "Run",
     "Python.IndividualBillCalculator.executor": "Run",
     "Python.InputFunction.executor": "Run",
     "Python.InstanceOfClass.executor": "Run",
     "Python.LifeInWeeks.executor": "Run",
+    "Python.ListComprehensions.executor": "Run",
+    "Python.ModifyingList.executor": "Run",
     "Python.OddEvenCheck.executor": "Run",
     "Python.ReplaceDomain.executor": "Run",
     "Python.ReplaceEndingOnly.executor": "Run",
@@ -75,8 +79,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.StringPalindromeCheck">
-    <configuration name="CalculatingGST" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ListComprehensions">
+    <configuration name="AverageLengthInList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +93,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalculatingGST.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AverageLengthInList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EnumerateFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Beginning Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EnumerateFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceDomain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ListComprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReplaceDomain.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ListComprehensions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ReplaceEndingOnly" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ModifyingList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReplaceEndingOnly.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ModifyingList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,35 +212,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VowelsFromString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Beginning Projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VowelsFromString.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ListComprehensions" />
+        <item itemvalue="Python.EnumerateFunction" />
+        <item itemvalue="Python.AverageLengthInList" />
+        <item itemvalue="Python.ModifyingList" />
         <item itemvalue="Python.StringPalindromeCheck" />
-        <item itemvalue="Python.ReplaceEndingOnly" />
-        <item itemvalue="Python.CalculatingGST" />
-        <item itemvalue="Python.ReplaceDomain" />
-        <item itemvalue="Python.VowelsFromString" />
       </list>
     </recent_temporary>
   </component>
