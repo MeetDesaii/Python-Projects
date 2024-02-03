@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9196aa-1cc1-4e1a-8a07-ce98231422ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../CodeWars Projects/Collinearity.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kwargs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +62,7 @@
     "Python.MatchStatement.executor": "Run",
     "Python.ModifyingList.executor": "Run",
     "Python.OddEvenCheck.executor": "Run",
+    "Python.OrderingSystem.executor": "Run",
     "Python.Practice.executor": "Run",
     "Python.ReplaceDomain.executor": "Run",
     "Python.ReplaceEndingOnly.executor": "Run",
