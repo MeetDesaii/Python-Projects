@@ -1,0 +1,3 @@
+Welcome MeetDesai, new file created successfully!
+Welcome to the huge python directory!
+Let's dive into AI with all basic understanding of Python!
