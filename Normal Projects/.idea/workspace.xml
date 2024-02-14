@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ba9196aa-1cc1-4e1a-8a07-ce98231422ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PalindromeChecking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ReverseString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapComprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPFundamentals.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListComprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListComprehensions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,87 +35,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.0001_HelloWorld (1).executor": "Run",
-    "Python.AverageLengthInList.executor": "Run",
-    "Python.BMICalculator.executor": "Run",
-    "Python.BandNameGenerator.executor": "Run",
-    "Python.BasicCalculator.executor": "Run",
-    "Python.CalculatingGST.executor": "Run",
-    "Python.CheckLeapYear.executor": "Run",
-    "Python.CombineList.executor": "Run",
-    "Python.CommonPredefinedFunctions.executor": "Run",
-    "Python.ConvertSeconds.executor": "Run",
-    "Python.CountLettersUsingDictionaries.executor": "Run",
-    "Python.CreateAndWriteFile.executor": "Run",
-    "Python.Dictionaries.executor": "Run",
-    "Python.EmailMergerUsingDictionaries.executor": "Run",
-    "Python.EnumerateFunction.executor": "Run",
-    "Python.GroupUsersUsingDictionaries.executor": "Run",
-    "Python.HelloWorld (1).executor": "Run",
-    "Python.IndividualBillCalculator.executor": "Run",
-    "Python.InputFunction.executor": "Run",
-    "Python.InstanceOfClass.executor": "Run",
-    "Python.Kwargs.executor": "Run",
-    "Python.LargestNumberInList.executor": "Run",
-    "Python.LargestSmallestNumberInList (1).executor": "Run",
-    "Python.LifeInWeeks.executor": "Run",
-    "Python.ListComprehensions.executor": "Run",
-    "Python.MatchStatement.executor": "Run",
-    "Python.ModifyingList.executor": "Run",
-    "Python.OddEvenCheck.executor": "Run",
-    "Python.OpenAndReadFile.executor": "Run",
-    "Python.OrderingSystem.executor": "Run",
-    "Python.PalindromeChecking.executor": "Run",
-    "Python.Practice.executor": "Run",
-    "Python.PythonFileOperations.executor": "Run",
-    "Python.ReplaceDomain.executor": "Run",
-    "Python.ReplaceEndingOnly.executor": "Run",
-    "Python.ReverseString.executor": "Run",
-    "Python.SliceJoinStrings (1).executor": "Run",
-    "Python.SliceStrings.executor": "Run",
-    "Python.SquaredNumbers.executor": "Run",
-    "Python.StorageCalculation.executor": "Run",
-    "Python.StringPalindromeCheck.executor": "Run",
-    "Python.SumOfString.executor": "Run",
-    "Python.TargetSumWithTwoNumbers (1).executor": "Run",
-    "Python.TargetWithTwoSum.executor": "Run",
-    "Python.TemperatureConverter.executor": "Run",
-    "Python.TreasureIsland.executor": "Run",
-    "Python.VowelsFromString.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.0001_HelloWorld (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.AverageLengthInList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BMICalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BandNameGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BasicCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CalculatingGST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CheckLeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CombineList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CommonPredefinedFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConvertSeconds.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CountLettersUsingDictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CreateAndWriteFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EmailMergerUsingDictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.EnumerateFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GroupUsersUsingDictionaries.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HelloWorld (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.IndividualBillCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InputFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.InstanceOfClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kwargs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LargestNumberInList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LargestSmallestNumberInList (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.LifeInWeeks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListComprehensions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MatchStatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ModifyingList.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OddEvenCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OpenAndReadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OrderingSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PalindromeChecking.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PythonFileOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReplaceDomain.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReplaceEndingOnly.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SliceJoinStrings (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.SliceStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SquaredNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StorageCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.StringPalindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SumOfString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TargetSumWithTwoNumbers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.TargetWithTwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TemperatureConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TreasureIsland.executor&quot;: &quot;Run&quot;,
+    &quot;Python.VowelsFromString.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.ReverseString">
-    <configuration name="CreateAndWriteFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Beginning Projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CreateAndWriteFile.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Python.OOPFundamentals">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Beginning Projects" />
       <option name="ENV_FILES" value="" />
@@ -131,6 +108,28 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="E:\Programming\Data Science &amp; Python\Python Projects\Beginning Projects\HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="OOPFundamentals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Beginning Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPFundamentals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.OOPFundamentals" />
         <item itemvalue="Python.ReverseString" />
         <item itemvalue="Python.PalindromeChecking" />
         <item itemvalue="Python.PythonFileOperations" />
         <item itemvalue="Python.OpenAndReadFile" />
-        <item itemvalue="Python.CreateAndWriteFile" />
       </list>
     </recent_temporary>
   </component>
