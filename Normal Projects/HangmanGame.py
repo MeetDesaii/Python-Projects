@@ -8,8 +8,6 @@ indian_cricketers = ListsData.indian_cricket_players
 chosen_cricketer = random.choice(indian_cricketers)
 word_length = len(chosen_cricketer)
 
-print(chosen_cricketer)
-
 # Printing the "_" based on the name of the cricketer!
 cricketer_name = str.split(chosen_cricketer, " ")
 print("Guess the name of an Indian Cricketer: ")
